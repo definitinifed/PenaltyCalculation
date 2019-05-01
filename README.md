@@ -1,2 +1,2 @@
 # PenaltyCalculation
-Veripark assignment
+an assignment
